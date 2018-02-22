@@ -1,0 +1,9 @@
+[submodule "DroneIYUI"]
+	path = DroneIYUI
+	url = git@github.com:DDSloan96/DroneIYUI.git
+[submodule "DroneIYFirmware"]
+	path = DroneIYFirmware
+	url = git@github.com:DDSloan96/DroneIYFirmware.git
+[submodule "DroneIYAPI"]
+	path = DroneIYAPI
+	url = git@github.com:DDSloan96/DroneIYAPI.git
