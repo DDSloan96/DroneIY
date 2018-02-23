@@ -38,3 +38,20 @@ This project will move in 3 stages before it will be considered a BETA:
             2. Ability to set paths
             3. Full automated flights are completed, short and extended
             4. adjustments for turbulence s
+
+
+Tech Stack: Will be updated as decisions are made
+
+Database: Non-Relational database
+    1. Unsure of end goal with schema
+    2. Data that is in database will be changing often
+    3. fairly portable and easy to install
+    4. Scalable
+
+Webapp:
+    - Angular
+    
+API:
+    - Python backend
+    - Queue/pipeline between backend and device (Rabbit?)
+    
